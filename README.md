@@ -1,5 +1,5 @@
 My name is Robert Nowotniak, and I’m a computer scientist with 15+ years of experience, based in Poland.\
-In 2015, I received a PhD degree in CS from [Lodz University of Technology](https://www.p.lodz.pl/en) for my contributions to quantum-inspired genetic and evolutionary algorithms, their theoretical analysis and an introduction of novel higher-order quantum-inspired algorithms.
+In 2015, I received a PhD degree in CS from [Lodz University of Technology](https://www.p.lodz.pl/en) for my contributions to quantum-inspired genetic and evolutionary algorithms, their theoretical analysis and introduction of novel higher-order quantum-inspired algorithms.
 
 * 🏠  My homepage: https://robert.nowotniak.com/
 * 📰  My LinkedIn profile: https://www.linkedin.com/in/rnowotniak
