@@ -7,4 +7,4 @@ In 2015, I received a PhD degree in CS from [Lodz University of Technology](http
 * 🎓  My Google Scholar profile: https://scholar.google.pl/citations?user=mOoWkgkAAAAJ&hl=en
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnowotniak)](https://github.com/rnowotniak)
-![Brittney's Github Stats](https://github-readme-stats.vercel.app/api?username=rnowotniak&count_private=true&show_icons=true&hide=contribs)
+![Robert's Github Stats](https://github-readme-stats.vercel.app/api?username=rnowotniak&count_private=true&show_icons=true&hide=contribs)
