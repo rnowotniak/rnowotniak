@@ -6,5 +6,7 @@ In 2015, I received a PhD degree in CS from [Lodz University of Technology](http
 * 🖥️  My NpnJS profile: https://www.npmjs.com/~rnowotniak
 * 🎓  My Google Scholar profile: https://scholar.google.pl/citations?user=mOoWkgkAAAAJ&hl=en
 
+My current focus areas cover mainly High-Performance Computing, infrastructure automation, DevOps, Python, IBM Spectrum Symphony, AWS, SQL DBs, and Linux.
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnowotniak)](https://github.com/rnowotniak)
 ![Robert's Github Stats](https://github-readme-stats.vercel.app/api?username=rnowotniak&count_private=true&show_icons=true&hide=contribs)
