@@ -4,7 +4,7 @@ I hold a PhD degree in CS for my contributions to quantum-inspired genetic and e
 * 🏠  Homepage: [Robert Nowotniak](https://robert.nowotniak.com)
 * 🎓  Google Scholar profile: https://scholar.google.pl/citations?user=mOoWkgkAAAAJ&hl=en
 * 📰  LinkedIn profile: https://www.linkedin.com/in/rnowotniak
-* 👔  Company: [MetaSolid.tech](https://www.metasolid.tech)
+* 👔  Company / organisation: [MetaSolid.tech](https://www.metasolid.tech)
 * 🚢  Docker Hub profile: https://hub.docker.com/u/rnowotniak
 * 🖥️  NpnJS profile: https://www.npmjs.com/~rnowotniak
 
@@ -12,3 +12,18 @@ My current focus areas cover mainly CyberSecurity, High-Performance Computing, A
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnowotniak)](https://github.com/rnowotniak)
 ![Robert's Github Stats](https://github-readme-stats.vercel.app/api?username=rnowotniak&count_private=true&show_icons=true&hide=contribs)
+
+## I'm using GitHub under protest
+My projects are currently hosted on GitHub.  This is not ideal; **GitHub is a
+proprietary, trade-secret system that is not Free and Open Souce Software**
+(FOSS).  I am deeply concerned about using a proprietary system like GitHub
+to develop FOSS projects.
+
+Please read about the
+[Give up GitHub](https://GiveUpGitHub.org) campaign from
+[the Software Freedom Conservancy](https://sfconservancy.org) to understand
+some of the reasons why GitHub is not a good place to host FOSS projects.
+
+**Any use of my projects' code by GitHub Copilot, past or present, is done
+without my permission.  I do not consent to GitHub's use of my projects
+code in Copilot.**
