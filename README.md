@@ -3,7 +3,7 @@ I hold a PhD degree in CS for my contributions to quantum-inspired genetic and e
 
 * 🏠  Homepage: [Robert Nowotniak](https://robert.nowotniak.com)
 * 🎓  Google Scholar profile: https://scholar.google.pl/citations?user=mOoWkgkAAAAJ&hl=en
-* 🦣  https://mastodon.social/@rnowotniak
+* 🦣  Mastodon microblog: https://mastodon.social/@rnowotniak
 * 📰  LinkedIn profile: https://www.linkedin.com/in/rnowotniak
 * 👔  Company / organisation: [MetaSolid.tech](https://www.metasolid.tech)
 * 🚢  Docker Hub profile: https://hub.docker.com/u/rnowotniak
