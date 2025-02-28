@@ -9,6 +9,8 @@ I hold a PhD degree in CS for my contributions to quantum-inspired genetic and e
 * 🚢  Docker Hub profile: https://hub.docker.com/u/rnowotniak
 * 🖥️  NpnJS profile: https://www.npmjs.com/~rnowotniak
 
+GPG: 0xF7F1D75C488EEB86272796D8B85F08D1855BBEFC
+
 My current focus areas cover mainly CyberSecurity, High-Performance Computing, AI, and Infrastructure Automation.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnowotniak)](https://github.com/rnowotniak)
@@ -25,6 +27,8 @@ Please read about the
 [the Software Freedom Conservancy](https://sfconservancy.org) to understand
 some of the reasons why GitHub is not a good place to host FOSS projects.
 
-**Any use of my projects' code by GitHub Copilot, past or present, is done
+Reference: https://www.developer-tech.com/news/microsoft-copilot-continues-to-expose-private-github-repositories/
+
+**Any use of my projects' code by COPILOT AI, past or present, is done
 without my permission.  I do not consent to GitHub's use of my projects
-code in Copilot.**
+code in COPILOT.**
