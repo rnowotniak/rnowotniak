@@ -8,10 +8,11 @@ I hold a PhD degree in CS for my contributions to quantum-inspired genetic and e
 * 👔  Organisation: [MetaSolid.tech](https://www.metasolid.tech)
 * 🚢  Docker Hub profile: https://hub.docker.com/u/rnowotniak
 * 🖥️  NpnJS profile: https://www.npmjs.com/~rnowotniak
+* 🕸️  Matrix: @rnowotniak:matrix.org
 
 GPG: 0xF7F1D75C488EEB86272796D8B85F08D1855BBEFC
 
-My current focus areas cover mainly CyberSecurity, High-Performance Computing, AI, and Infrastructure Automation.
+My current focus areas cover mainly cyberSecurity, data privacy, high-performance computing, AI, and infrastructure automation.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnowotniak)](https://github.com/rnowotniak)
 ![Robert's Github Stats](https://github-readme-stats.vercel.app/api?username=rnowotniak&count_private=true&show_icons=true&hide=contribs)
