@@ -5,9 +5,7 @@ I hold a PhD degree in CS for my contributions to quantum-inspired genetic and e
 * 🎓  Google Scholar profile: https://scholar.google.pl/citations?user=mOoWkgkAAAAJ&hl=en
 * 🦣  Mastodon microblog: https://mastodon.social/@rnowotniak
 * 📰  LinkedIn profile: https://www.linkedin.com/in/rnowotniak
-* 👔  Organisation: [MetaSolid.tech](https://www.metasolid.tech)
 * 🚢  Docker Hub profile: https://hub.docker.com/u/rnowotniak
-* 🖥️  NpnJS profile: https://www.npmjs.com/~rnowotniak
 * 🕸️  Matrix: @rnowotniak:matrix.org
 
 GPG: 0xF7F1D75C488EEB86272796D8B85F08D1855BBEFC
