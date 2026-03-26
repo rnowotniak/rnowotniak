@@ -12,9 +12,6 @@ GPG: 0xF7F1D75C488EEB86272796D8B85F08D1855BBEFC
 
 My current focus areas cover mainly cyberSecurity, data privacy, high-performance computing, AI, and infrastructure automation.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnowotniak)](https://github.com/rnowotniak)
-![Robert's Github Stats](https://github-readme-stats.vercel.app/api?username=rnowotniak&count_private=true&show_icons=true&hide=contribs)
-
 ## I'm using GitHub under protest
 My projects are currently hosted on GitHub.  This is not ideal; **GitHub is a
 proprietary, trade-secret system that is not Free and Open Souce Software**
