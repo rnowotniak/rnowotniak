@@ -1,4 +1,24 @@
-My name is Robert Nowotniak, and I’m a computer scientist with 15+ years of experience.\
+## I'm moving out of Github
+
+Please use Codeberg instead: https://codeberg.org/rnowotniak/
+
+**GitHub is now a proprietary, trade-secret system that is not Free and Open Souce Software** (FOSS).
+I am deeply concerned about using a proprietary system like GitHub to develop FOSS projects.
+
+Please read about the
+[Give up GitHub](https://GiveUpGitHub.org) campaign from
+[the Software Freedom Conservancy](https://sfconservancy.org) to understand
+some of the reasons why GitHub is not a good place to host FOSS projects.
+
+Reference: https://www.developer-tech.com/news/microsoft-copilot-continues-to-expose-private-github-repositories/
+
+**Any use of my projects' code by COPILOT AI, past or present, is done
+without my permission.  I did not consent to GitHub's use of my projects
+code in COPILOT.**
+
+# About
+
+My name is Robert Nowotniak, and I’m a computer scientist with almost 20 years of experience.\
 I hold a PhD degree in CS for my contributions to quantum-inspired genetic and evolutionary algorithms.
 
 * 🏠  Homepage: [Robert Nowotniak](https://robert.nowotniak.com)
@@ -10,21 +30,6 @@ I hold a PhD degree in CS for my contributions to quantum-inspired genetic and e
 
 GPG: 0xF7F1D75C488EEB86272796D8B85F08D1855BBEFC
 
-My current focus areas cover mainly cyberSecurity, data privacy, high-performance computing, AI, and infrastructure automation.
+My current focus areas cover mainly cybersecurity, data privacy, high-performance computing,
+artificial intelligence, and infrastructure automation.
 
-## I'm using GitHub under protest
-My projects are currently hosted on GitHub.  This is not ideal; **GitHub is a
-proprietary, trade-secret system that is not Free and Open Souce Software**
-(FOSS).  I am deeply concerned about using a proprietary system like GitHub
-to develop FOSS projects.
-
-Please read about the
-[Give up GitHub](https://GiveUpGitHub.org) campaign from
-[the Software Freedom Conservancy](https://sfconservancy.org) to understand
-some of the reasons why GitHub is not a good place to host FOSS projects.
-
-Reference: https://www.developer-tech.com/news/microsoft-copilot-continues-to-expose-private-github-repositories/
-
-**Any use of my projects' code by COPILOT AI, past or present, is done
-without my permission.  I do not consent to GitHub's use of my projects
-code in COPILOT.**
