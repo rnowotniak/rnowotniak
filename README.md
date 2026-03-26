@@ -10,8 +10,6 @@ Please read about the
 [the Software Freedom Conservancy](https://sfconservancy.org) to understand
 some of the reasons why GitHub is not a good place to host FOSS projects.
 
-Reference: https://www.developer-tech.com/news/microsoft-copilot-continues-to-expose-private-github-repositories/
-
 **Any use of my projects' code by COPILOT AI, past or present, is done
 without my permission.  I did not consent to GitHub's use of my projects
 code in COPILOT.**
